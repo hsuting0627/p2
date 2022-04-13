@@ -1,0 +1,1 @@
+在每個波結束之後因為printf的介入有distortion(delay)的發生。
